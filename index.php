@@ -4,10 +4,10 @@ get_header();
 
 <div class="row">
     <div class="col-4">
-        MA SIDEBAR !
+        <?php get_sidebar(); ?>
     </div>
     <div class="col-8">
-        <p>Goodbye Wordpress !!!!!!!</p>
+        <?php get_template_part('partials/homepage/test'); ?>
     </div>
 </div>
 
