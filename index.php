@@ -52,6 +52,12 @@
     <!-- PAGE CONTENT -->
     <div id="content">
 
+    <!-- ------------------------ -->
+
+    <p>Goodbye Wordpress !!!!!!!</p>
+
+    <!-- ------------------------ -->
+    
     </div><!-- End PAGE CONTENT -->
 
     <!-- FOOTER -->
